@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    
+<date>
+    <nume>111</nume>
+    <parola>222</parola>
+</date>
+<date>
+    <nume>admin</nume>
+    <parola>addmin</parola>
+</date>
+<date>
+    <nume>aadmin</nume>
+    <parola>admin</parola>
+</date>
+<date>
+    <nume>mircea</nume>
+    <parola>strachina</parola>
+</date>
+<date><nume>mircea</nume><parola/></date><date><nume>mircea</nume><parola>strachina</parola></date><date><nume>111</nume><parola>222</parola></date></root>

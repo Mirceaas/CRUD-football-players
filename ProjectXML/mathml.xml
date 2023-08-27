@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1998/Math/MathML">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.0" width="1333" height="679">
+  <title>Draw</title>
+  <polygon points="99.5,0 0,172 199,172"
+           transform="translate(271.5,384) scale(-1,0.999994) skewX(-0.19757) "
+           style="stroke: black; stroke-opacity: 1; stroke-width: 1; ;fill:#800040"/>
+  <text x="68px" y="351px">Triunghi oarecare</text>
+</svg>
+<math>
+  <mi>V</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mn>4</mn>
+      <mi>&#960;</mi>
+      <msup>
+        <mi>R</mi>
+        <mn>3</mn>
+      </msup>
+    </mrow>
+    <mn>3</mn>
+  </mfrac>
+</math>
+</html>

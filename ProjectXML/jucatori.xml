@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<root>
+    <date>
+        <Nume>Cristiano Ronaldo dos Santos Aveiro</Nume>
+        <Tara>Portugalia</Tara>
+        <Clasament_mondial>1</Clasament_mondial>
+        <link_url>https://ro.wikipedia.org/wiki/Cristiano_Ronaldo</link_url>
+    </date>
+    <date>
+        <Nume>Lionel Andrés Messi Cuccittini</Nume>
+        <Tara>Argentina</Tara>
+        <Clasament_mondial>2</Clasament_mondial>
+        <link_url>https://ro.wikipedia.org/wiki/Lionel_Messi</link_url>
+    </date>
+    <date>
+        <Nume>Erling Braut Haaland</Nume>
+        <Tara>Norvegia</Tara>
+        <Clasament_mondial>3</Clasament_mondial>
+        <link_url>https://en.wikipedia.org/wiki/Erling_Haaland</link_url>
+    </date>
+</root>
+
